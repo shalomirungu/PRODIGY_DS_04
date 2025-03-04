@@ -8,7 +8,7 @@ This project analyzes and visualizes sentiment patterns in social media data to 
 
 ## Dataset
 
-The project utilizes (Twitter Sentiment Analysis dataset)[https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis]:
+The project utilizes (Twitter Sentiment Analysis dataset) [https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis]:
 
 Dataset Source: Kaggle
 
