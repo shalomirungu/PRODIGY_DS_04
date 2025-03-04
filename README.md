@@ -4,13 +4,13 @@
 
 ## Project Overview
 
-This project analyzes and visualizes sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands. The dataset consists of tweets with sentiment labels (positive, neutral, negative), and we use natural language processing (NLP) techniques to process, analyze, and visualize sentiment trends.
+This project analyzes and visualizes sentiment patterns in social media data to understand public opinion and attitudes towards different entities on twitter. The dataset consists of tweets with sentiment labels (positive, neutral, negative, irrelevant), and we use natural language processing (NLP) techniques to process, analyze, and visualize sentiment trends.
 
 ## Dataset
 
-The project utilizes a Twitter sentiment dataset:
+The project utilizes (Twitter Sentiment Analysis dataset)[https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis]:
 
-Dataset Source: Kaggle - Twitter Entity Sentiment Analysis
+Dataset Source: Kaggle
 
 Columns: tweet_id, entity, sentiment, tweet_content
 
