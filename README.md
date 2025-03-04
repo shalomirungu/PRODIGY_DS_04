@@ -1,6 +1,6 @@
 # PRODIGY_DS_04
 
-# Sentiment Analysis on Social Media Data
+# Sentiment Analysis on Twitter
 
 ## Project Overview
 
@@ -23,7 +23,7 @@ Removing URLs, special characters, and stopwords
 Creating keywords
 Lowercasing and lemmatizing words
 
-Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 Visualizing sentiment distribution using a countplot
 
